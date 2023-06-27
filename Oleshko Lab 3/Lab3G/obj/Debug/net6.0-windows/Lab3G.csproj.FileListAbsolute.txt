@@ -1,0 +1,68 @@
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.exe
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.deps.json
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.runtimeconfig.json
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.pdb
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.MainForm.resources
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\refint\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.pdb
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\Lab3G\Lab3G\obj\Debug\net6.0-windows\ref\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.exe
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.deps.json
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.runtimeconfig.json
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\bin\Debug\net6.0-windows\Lab3G.pdb
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.MainForm.resources
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\refint\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.pdb
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\Lab3G.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Zabrodina\Lab3G\Lab3G\obj\Debug\net6.0-windows\ref\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\bin\Debug\net6.0-windows\Lab3G.exe
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\bin\Debug\net6.0-windows\Lab3G.deps.json
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\bin\Debug\net6.0-windows\Lab3G.runtimeconfig.json
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\bin\Debug\net6.0-windows\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\bin\Debug\net6.0-windows\Lab3G.pdb
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.MainForm.resources
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\refint\Lab3G.dll
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.pdb
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\Lab3G.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Main\University\Чисельні методи\+\Ziubin\Lab3 G\Lab3G\obj\Debug\net6.0-windows\ref\Lab3G.dll
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\bin\Debug\net6.0-windows\Lab3G.exe
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\bin\Debug\net6.0-windows\Lab3G.deps.json
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\bin\Debug\net6.0-windows\Lab3G.runtimeconfig.json
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\bin\Debug\net6.0-windows\Lab3G.dll
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\bin\Debug\net6.0-windows\Lab3G.pdb
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.AssemblyReference.cache
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.MainForm.resources
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.GenerateResource.cache
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.AssemblyInfoInputs.cache
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.AssemblyInfo.cs
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.csproj.CoreCompileInputs.cache
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.dll
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\refint\Lab3G.dll
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.pdb
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\Lab3G.genruntimeconfig.cache
+C:\Main\University\Чисельні методи\+\Oleshko\Lab3 Graphics\Lab3G\obj\Debug\net6.0-windows\ref\Lab3G.dll
